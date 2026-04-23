@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/yugandharkannikanti/static/css/main.b0200b6e.css",
-    "main.js": "/yugandharkannikanti/static/js/main.ca1b0c7a.js",
-    "index.html": "/yugandharkannikanti/index.html",
-    "main.b0200b6e.css.map": "/yugandharkannikanti/static/css/main.b0200b6e.css.map",
-    "main.ca1b0c7a.js.map": "/yugandharkannikanti/static/js/main.ca1b0c7a.js.map"
+    "main.css": "/portfolio/static/css/main.b0200b6e.css",
+    "main.js": "/portfolio/static/js/main.ca1b0c7a.js",
+    "index.html": "/portfolio/index.html",
+    "main.b0200b6e.css.map": "/portfolio/static/css/main.b0200b6e.css.map",
+    "main.ca1b0c7a.js.map": "/portfolio/static/js/main.ca1b0c7a.js.map"
   },
   "entrypoints": [
     "static/css/main.b0200b6e.css",
